@@ -17,9 +17,9 @@ Place some validation images in "val_hr" folder.
 
 Run rescale.py to create lower resolution images of Train and Val images.
 
-Open run.py and modify dictionary and parameter vars, if you want to.
+Open run.py(or run_already_debug.py) and modify dictionary and parameter vars, if you want to.
 
-Execute run.py and check results in "data/results/".
+Execute run.py(or run_already_debug.py) and check results in "data/results/".
 
 # Initial Results
 ![Bicubic interpolation; Super-Resolution; Original](/demo/123.png)
